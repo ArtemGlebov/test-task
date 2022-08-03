@@ -1,0 +1,7 @@
+докуметация сборки
+https://habr.com/ru/post/560894/
+
+gulp - разработка с html файлами
+gulp dev_php - разработка с php файлами
+npm run build - конечная сборка в build
+npm run ftp - build-ftp
